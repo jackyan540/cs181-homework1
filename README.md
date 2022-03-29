@@ -23,6 +23,7 @@ Spring 2021 Machine Learning ([CS 181](https://harvard-ml-courses.github.io/cs18
 
 ### problem1_5-Gradient-Descent.py
 - Optimizes a kernel-based regressor using gradient descent
+- Plots and compares predictions from a kernel-based regressor and from a nearest neighbor-based regressor
 
 ### problem2_1-kNearestNeighbors.py
 - Referred to as `T1_P2.py` in the specifications
