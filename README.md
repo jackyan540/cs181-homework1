@@ -1,7 +1,7 @@
 # cs181-homework1
 Spring 2021 Machine Learning ([CS 181](https://harvard-ml-courses.github.io/cs181-web-2021/)) [Homework 1](https://github.com/harvard-ml-courses/cs181-s21-homeworks/tree/main/hw1)
 
-# Problem Topics
+## Problem Topics
 
 > Solutions contained in the `personal-solutions` folder
 
@@ -12,7 +12,7 @@ Spring 2021 Machine Learning ([CS 181](https://harvard-ml-courses.github.io/cs18
 
 ---
 
-# Code
+## Code
 
 > Implementation contained in the `code` folder
 
@@ -21,14 +21,14 @@ Spring 2021 Machine Learning ([CS 181](https://harvard-ml-courses.github.io/cs18
 - Referred to as `T1_P1.py` in the specifications
 - Calculates the loss with respect to three different kernels for the provided dataset
 
-### problem1_5-Gradient-Descent.py
+#### problem1_5-Gradient-Descent.py
 - Optimizes a kernel-based regressor using gradient descent
 
-### problem2_1-kNearestNeighbors.py
+#### problem2_1-kNearestNeighbors.py
 - Referred to as `T1_P2.py` in the specifications
 - Plots and compares predictions from a kernel-based regressor and from a nearest neighbor-based regressor
 
-### problem4-OLS-with-Basis-Functions.py
+#### problem4-OLS-with-Basis-Functions.py
 - Referred to as `T1_P4.py` in the specifications
 - Plots data and ordinary least squares regression lines over multiple different basis functions
 - Calculates the residual sum-of-squares error for each basis regression
