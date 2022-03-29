@@ -17,3 +17,7 @@ Spring 2021 Machine Learning ([CS 181](https://harvard-ml-courses.github.io/cs18
 > Implementation contained in the `code` folder
 
 ### problem1_4-Kernel-Loss-Function.py
+
+> Referred to as `T1_P1.py` in the specifications
+
+Calculate the loss with respect to three different kernels for the provided dataset.
