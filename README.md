@@ -30,3 +30,5 @@ Spring 2021 Machine Learning ([CS 181](https://harvard-ml-courses.github.io/cs18
 
 ### problem4-OLS-with-Basis-Functions.py
 - Referred to as `T1_P4.py` in the specifications
+- Plots data and ordinary least squares regression lines over multiple different basis functions
+- Calculates the residual sum-of-squares error for each basis regression
