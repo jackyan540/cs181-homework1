@@ -22,7 +22,7 @@ Spring 2021 Machine Learning ([CS 181](https://harvard-ml-courses.github.io/cs18
 - Calculates the loss with respect to three different kernels for the provided dataset
 
 ### problem1_5-Gradient-Descent.py
-- Optimize a kernel-based regressor using gradient descent
+- Optimizes a kernel-based regressor using gradient descent
 
 ### problem2_1-kNearestNeighbors.py
 - Referred to as `T1_P2.py` in the specifications
